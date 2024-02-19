@@ -1,0 +1,28 @@
+#timer {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 10px;
+    border: 2px solid black;
+    font-size: 50px;
+}
+
+#timerbox {
+    text-align: center;
+
+}
+
+h1 {
+    color: red;
+}
+
+#select,
+#btn,
+#volume {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: large;
+}
